@@ -11,5 +11,6 @@
       "restrictSessionIfaceToLive": true,
       "restrictSessionIfaceToGuid": true
   },
-  "liveSessionIfaceGuid": "8A43174840F321BD18BAD2967DEBB709"
+  "liveSessionIfaceGuid": "8A43174840F321BD18BAD2967DEBB709",
+  "bonfire": ""
 }
