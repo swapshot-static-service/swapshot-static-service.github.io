@@ -1,3 +1,15 @@
 {
-  "version": "none"
+  "liveBuildNumber": 1724,
+  "liveBuildName": "SWAPSHOT-Development-0.7.1-1724-GVT2",
+  "liveReleasePhase": "VeryEarlyPreAlpha",
+  "liveBuildSandbox": "DevPlaytest",
+  "liveBuildConfiguration": "Development",
+  "liveBuildDateTime": "null",
+  "versionRestrictionConfig":
+  {
+      "markAllOldAsDirty": true,
+      "restrictSessionIfaceToLive": true,
+      "restrictSessionIfaceToGuid": true
+  },
+  "liveSessionIfaceGuid": "8A43174840F321BD18BAD2967DEBB709"
 }
