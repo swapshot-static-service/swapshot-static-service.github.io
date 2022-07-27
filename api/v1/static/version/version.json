@@ -9,8 +9,8 @@
   {
       "markAllOldAsDirty": true,
       "restrictSessionIfaceToLive": true,
-      "restrictSessionIfaceToGuid": true
+      "restrictSessionIfaceToGuid": true,
+      "enableSessionIfaceForLive": true
   },
-  "liveSessionIfaceGuid": "8A43174840F321BD18BAD2967DEBB709",
-  "bonfire": ""
+  "liveSessionIfaceGuid": "8A43174840F321BD18BAD2967DEBB709"
 }
